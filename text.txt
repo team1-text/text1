@@ -1,2 +1,3 @@
 今天我学习java,html和php课程
 修复bug完成
+修复了2个bug
